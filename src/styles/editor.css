@@ -1,0 +1,18 @@
+
+.panel {
+    display: flex;
+}
+
+.textarea {
+    width: 50%;
+    height: 100vh;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.markdown {
+    width: 50%;
+    height: 100vh;
+    padding: 10px;
+    font-size: 1rem;
+}
